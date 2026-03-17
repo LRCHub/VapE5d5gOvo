@@ -1,0 +1,48 @@
+# The Strokes – Chances
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.00] ...
+[00:26.29] I waited for ya
+[00:28.59] I waited for ya
+[00:30.93] I waited on ya
+[00:32.36] But now I don't
+[00:35.57] You didn't see it
+[00:37.89] I didn't see it
+[00:40.12] I didn't see it
+[00:41.56] But now, oh, I do
+[00:45.38] I play your game
+[00:47.61] I play your game
+[00:51.25] Now
+[00:54.58] I play your game
+[00:56.78] I play your game
+[01:01.78] I take my chances alone
+[01:07.72] Get on your horse and be gone
+[01:11.40] I will not wait up for you anymore
+[01:16.12] So you can ask me if something is wrong
+[01:21.72] Will you go?
+[01:26.72] I don't know anymore
+[01:31.20] ...
+[01:41.99] When the night isn't ready for you
+[01:46.38] It's a feeling I know that dogs you
+[01:50.99] They invited a stewardess, too
+[01:55.48] Now they want you to see it
+[02:00.17] Here's to days he decides he's got time
+[02:04.58] And when he claims that it's not a surprise
+[02:09.35] When he finds out the truth's on his side
+[02:15.84] I take my chances alone
+[02:21.79] Get on your horse and be gone
+[02:25.59] I will not wait up for you anymore
+[02:30.19] So you can ask me if something is wrong
+[02:35.70] Will you go?
+[02:40.89] I don't know anymore
+[02:45.33] I don't believe anyone
+[02:49.22] As they crawl out of my way
+[03:02.72] 
+[03:03.61] Waiting for the night
+[03:07.47] Leaving night by night
+[03:12.19] You can see me travel
+[03:16.83] We could be in trouble every night
+[03:22.13] We're having a new life
+```
