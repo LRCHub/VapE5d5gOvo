@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Chances",
+  "base_artist": "The Strokes",
+  "createdAt": "2026-03-17T15:42:50.614443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Take My Chances",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/01_I_Take_My_Chances_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still Taking Chances",
+      "artist": "Michael Martin Murphey",
+      "has_synced": true,
+      "path": "select/02_Still_Taking_Chances_Michael_Martin_Murphey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "Lil Poppa feat. NoCap",
+      "has_synced": true,
+      "path": "select/03_Chances_Lil_Poppa_feat._NoCap.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chances (feat. NoCap)",
+      "artist": "Lil Poppa",
+      "has_synced": true,
+      "path": "select/04_Chances_(feat._NoCap)_Lil_Poppa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Taking Chances",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/05_Taking_Chances_Nav.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Taking Chances",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/06_Taking_Chances_NAV.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "Lil Duke feat. Young Stoner Life",
+      "has_synced": false,
+      "path": "select/07_Chances_Lil_Duke_feat._Young_Stoner_Life.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "Lil Duke, Young Stoner Life",
+      "has_synced": false,
+      "path": "select/08_Chances_Lil_Duke,_Young_Stoner_Life.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Taking Chances",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/09_Taking_Chances_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "3 Chances",
+      "artist": "Oh Land",
+      "has_synced": true,
+      "path": "select/10_3_Chances_Oh_Land.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "3 Chances",
+      "artist": "Oh! Land",
+      "has_synced": true,
+      "path": "select/11_3_Chances_Oh!_Land.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "The Strokes",
+      "has_synced": true,
+      "path": "select/12_Chances_The_Strokes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chances Are We Are Mad",
+      "artist": "His Name Is Alive",
+      "has_synced": true,
+      "path": "select/13_Chances_Are_We_Are_Mad_His_Name_Is_Alive.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Taking Your Chances",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/14_Taking_Your_Chances_Saxon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "Clawfinger",
+      "has_synced": false,
+      "path": "select/15_Chances_Clawfinger.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "John Frusciante",
+      "has_synced": true,
+      "path": "select/16_Chances_John_Frusciante.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chances Three",
+      "artist": "Nevermore",
+      "has_synced": true,
+      "path": "select/17_Chances_Three_Nevermore.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Always All Ways (Apologies, Glances and Messed Up Chances)",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/18_Always_All_Ways_(Apologies,_Glances_and_Messed_Up_Chances)_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Chances",
+      "artist": "The Material",
+      "has_synced": true,
+      "path": "select/19_Chances_The_Material.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chances",
+      "artist": "The Strokes",
+      "has_synced": false,
+      "path": "select/pl_01_Chances_The_Strokes.txt"
+    }
+  ]
+}
